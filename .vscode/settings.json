@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "C:/Users/Loren/Desktop/hola/javafx-sdk-23.0.1/lib/*.jar"
+    ],
+    "java.project.sourcePaths": [
+        "src/modelo",
+        "src/visita"
+    ]
+}
